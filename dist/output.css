@@ -514,10 +514,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-width: 0;
 }
 
-.m-auto {
-  margin: auto;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -536,40 +532,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 1rem;
 }
 
-.-mt-10 {
-  margin-top: -2.5rem;
-}
-
 .-mt-14 {
   margin-top: -3.5rem;
 }
 
-.mt-5 {
-  margin-top: 1.25rem;
-}
-
-.mt-10 {
-  margin-top: 2.5rem;
-}
-
-.mb-6 {
-  margin-bottom: 1.5rem;
-}
-
-.-mt-11 {
-  margin-top: -2.75rem;
-}
-
 .mt-11 {
   margin-top: 2.75rem;
-}
-
-.mt-14 {
-  margin-top: 3.5rem;
-}
-
-.mt-16 {
-  margin-top: 4rem;
 }
 
 .block {
@@ -600,14 +568,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: auto;
 }
 
-.h-96 {
-  height: 24rem;
-}
-
-.h-80 {
-  height: 20rem;
-}
-
 .h-64 {
   height: 16rem;
 }
@@ -620,20 +580,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 100%;
 }
 
-.w-16 {
-  width: 4rem;
-}
-
-.w-64 {
-  width: 16rem;
-}
-
 .w-96 {
   width: 24rem;
-}
-
-.flex-row {
-  flex-direction: row;
 }
 
 .flex-col {
@@ -644,20 +592,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   flex-wrap: wrap;
 }
 
-.place-content-center {
-  place-content: center;
-}
-
-.content-center {
-  align-content: center;
-}
-
 .items-center {
   align-items: center;
-}
-
-.justify-center {
-  justify-content: center;
 }
 
 .justify-between {
@@ -687,11 +623,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .border-gray-200 {
   --tw-border-opacity: 1;
   border-color: rgb(229 231 235 / var(--tw-border-opacity));
-}
-
-.border-emerald-600 {
-  --tw-border-opacity: 1;
-  border-color: rgb(5 150 105 / var(--tw-border-opacity));
 }
 
 .bg-primary {
@@ -776,14 +707,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .pb-6 {
   padding-bottom: 1.5rem;
-}
-
-.pt-5 {
-  padding-top: 1.25rem;
-}
-
-.text-center {
-  text-align: center;
 }
 
 .font-\[\'Raleway\'\] {
